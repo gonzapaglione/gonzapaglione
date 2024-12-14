@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gonzalo!</h1>
 
-<!--
-**gonzapaglione/gonzapaglione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ABOUT ME SECTION -->
+# About me
+<p>
+  <b>
+    📍 I live in Argentina.<br>
+    💻 Advanced programming student at UNSE.<br>
+    🎯 Passionate about backend development and always eager to learn new things.<br>
+    🗣️ I'm currently studying English too.
+  </b>
+</p>
 
-Here are some ideas to get you started:
+# Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- CONNECTION -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="mailto:correo@ejemplo.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://www.linkedin.com/in/gonzalo-lopez-paglione-b21772323/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Logo" style="width: 50px; height: 50px;">
+    </a>

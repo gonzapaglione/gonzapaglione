@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Gonzalo!</h1>
-
 <!-- ABOUT ME SECTION -->
-<h1 align="center">About me: </h1>
+<h2 align="center">About me: </h2>
 <p>
   <b>
     📍 I live in Argentina.<br>
@@ -10,9 +9,6 @@
     🗣️ I'm currently studying English too.
   </b>
 </p>
-
-<h1 align="center">Languages and tools</h1>
-
 
 <!-- CONNECTION -->
 <h3 align="center">Connect with me:</h3>

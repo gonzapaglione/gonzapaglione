@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gonzalo!</h1>
 
 <!-- ABOUT ME SECTION -->
-# About me
+<h1 align="center">About me: </h1>
 <p>
   <b>
     📍 I live in Argentina.<br>
@@ -11,7 +11,7 @@
   </b>
 </p>
 
-# Languages and tools
+<h1 align="center">Languages and tools</h1>
 
 
 <!-- CONNECTION -->

@@ -3,10 +3,10 @@
 <h2 align="center">About me: </h2>
 <p>
   <b>
-    📍 I live in Argentina.<br>
-    💻 Advanced programming student at UNSE.<br>
-    🎯 Passionate about backend development and always eager to learn new things.<br>
-    🗣️ I'm currently studying English too.
+    I live in Argentina.<br>
+    Advanced programming student at UNSE.<br>
+    Passionate about backend development and always eager to learn new things.<br>
+    I'm currently studying English too.
   </b>
 </p>
 

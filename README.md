@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy Gonzalo  
+# Hola, soy Gonzalo  
 
-Desarrollador **Full Stack** | 🇦🇷 Argentina  
+Desarrollador **Full Stack** | Argentina  
 
-Me apasiona crear soluciones digitales que combinan **backend sólido** con **frontend atractivo**.  
-Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnologías día a día.  
+Me interesa construir soluciones digitales que integren un **backend sólido** con un **frontend atractivo y funcional**.  
+Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnologías cada día.  
 
 ---
 
@@ -18,16 +18,16 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 ## GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzapaglione&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzapaglione&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gonzapaglione&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzapaglione&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## Conectemos  
+## Contacto  
 
 <p align="center">
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/gonzapaglione">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/tu-linkedin">

@@ -1,21 +1,47 @@
-<h1 align="center">Hi, I'm Gonzalo!</h1>
-<!-- ABOUT ME SECTION -->
-<h2 align="center">About me: </h2>
-<p>
-  <b>
-    I live in Argentina.<br>
-    Advanced programming student at UNSE.<br>
-    Passionate about backend development and always eager to learn new things.<br>
-    I'm currently studying English too.
-  </b>
+# 👋 ¡Hola! Soy Gonzalo  
+
+💻 Desarrollador **Full Stack** | 📍 Argentina  
+
+Me apasiona crear soluciones digitales que combinan **backend sólido** con **frontend atractivo**.  
+Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnologías día a día.  
+
+---
+
+## 🚀 Tecnologías & Herramientas  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,git,github,docker" />
 </p>
 
-<!-- CONNECTION -->
-<h3 align="center">Connect with me:</h3>
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
-    <a href="mailto:correo@ejemplo.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail Logo" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://www.linkedin.com/in/gonzalo-lopez-paglione-b21772323/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Logo" style="width: 50px; height: 50px;">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🌱 Actualmente  
+
+- 🚀 Desarrollando un **sistema de gestión para clínica odontológica** con Spring Boot + React.  
+- 📚 Estudiando **redes y arquitectura de software**.  
+- 🎯 Objetivo: crecer como **backend developer** y trabajar en proyectos de gran escala.  
+
+---
+
+## 🤝 Conectemos  
+
+<p align="center">
+  <a href="https://github.com/tu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>

@@ -24,14 +24,6 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 
 ---
 
-## Actualmente  
-
-- 🚀 Desarrollando un **sistema de gestión para clínica odontológica** con Spring Boot + React.  
-- 📚 Estudiando **redes y arquitectura de software**.  
-- 🎯 Objetivo: crecer como **backend developer** y trabajar en proyectos de gran escala.  
-
----
-
 ## Conectemos  
 
 <p align="center">

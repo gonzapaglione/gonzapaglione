@@ -1,4 +1,4 @@
-# Hola, soy Gonzalo  
+# 👋 Hola, soy Gonzalo  
 
 Desarrollador **Full Stack** | Argentina  
 

@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Gonzalo  
 
-💻 Desarrollador **Full Stack** | 📍 Argentina  
+Desarrollador **Full Stack** | 🇦🇷 Argentina  
 
 Me apasiona crear soluciones digitales que combinan **backend sólido** con **frontend atractivo**.  
 Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnologías día a día.  

@@ -7,7 +7,7 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 
 ---
 
-## 🚀 Tecnologías & Herramientas  
+## Tecnologías & Herramientas  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,git,github,docker" />
@@ -15,7 +15,7 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" height="150"/>
@@ -24,7 +24,7 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 
 ---
 
-## 🌱 Actualmente  
+## Actualmente  
 
 - 🚀 Desarrollando un **sistema de gestión para clínica odontológica** con Spring Boot + React.  
 - 📚 Estudiando **redes y arquitectura de software**.  
@@ -32,7 +32,7 @@ Actualmente trabajando con **Spring Boot + React** y aprendiendo nuevas tecnolog
 
 ---
 
-## 🤝 Conectemos  
+## Conectemos  
 
 <p align="center">
   <a href="https://github.com/tu-usuario">

@@ -3,6 +3,7 @@
 Desarrollador **Full Stack** | Argentina  
 
 Estudiante avanzado en Programador Universitario en Informatica | UNSE
+
 Me interesa construir soluciones digitales que integren un **backend sólido** con un **frontend atractivo y funcional**.  
 Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnologías cada día.  
 

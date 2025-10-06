@@ -1,7 +1,5 @@
 # 👋 Hola, soy Gonzalo  
 
-Desarrollador **Full Stack** | Argentina  
-
 Estudiante avanzado en Programador Universitario en Informatica | UNSE
 
 Me interesa construir soluciones digitales que integren un **backend sólido** con un **frontend atractivo y funcional**.  

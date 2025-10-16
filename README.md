@@ -5,12 +5,10 @@ Estudiante avanzado en Programador Universitario en Informatica | UNSE
 Me interesa construir soluciones digitales que integren un **backend sólido** con un **frontend atractivo y funcional**.  
 Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnologías cada día.  
 
----
 
 ## Tecnologías & Herramientas  
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,git,github" /> </p>
 
----
 
 ## GitHub Stats  
 
@@ -19,7 +17,6 @@ Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzapaglione&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
 
 ## Contacto  
 

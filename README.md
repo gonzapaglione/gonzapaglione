@@ -9,6 +9,7 @@ Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnol
 
 ## Tecnologías & Herramientas  
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,git,github" /> </p>
+
 ---
 
 ## GitHub Stats  

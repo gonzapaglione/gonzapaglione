@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gonzalo  
 
-Estudiante avanzado en Programador Universitario en Informatica | UNSE
+ Egresado de la carrera "Programador Universitario en Informática" (UNSE)
 
 Me interesa construir soluciones digitales que integren un **backend sólido** con un **frontend atractivo y funcional**.  
 Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnologías cada día.  

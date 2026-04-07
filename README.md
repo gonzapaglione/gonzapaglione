@@ -9,7 +9,7 @@ Actualmente trabajo con **Spring Boot + React** y sigo aprendiendo nuevas tecnol
 ## Tecnologías & Herramientas  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,docker,html,css,js,react,mysql,git,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nestjs,docker,html,css,js,react,mysql,git,linux,figma" />
   </a>
 </p>
 
